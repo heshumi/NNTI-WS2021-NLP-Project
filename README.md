@@ -1,4 +1,6 @@
 ﻿
+## Denis Kokorev (7007817), Mejbah Uddin Shameem (2577739)
+
 ## Note for reproduce the project code
 All the files required for running the notebooks (including the models) are available by the following link: https://oc.cs.uni-saarland.de/owncloud/index.php/s/GYYmgiTFZ2Gbnwa
 ### Task 1
