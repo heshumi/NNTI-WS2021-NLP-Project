@@ -1,5 +1,6 @@
 ﻿
 ## Note for reproduce the project code
+All the files required for running the notebooks (including the models) are available by the following link: https://oc.cs.uni-saarland.de/owncloud/index.php/s/GYYmgiTFZ2Gbnwa
 ### Task 1
 - All the required files and notebook for task1 can be found in the folder task1
 - Please load all the files of that folder in the runtime before running the notebook
